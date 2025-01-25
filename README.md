@@ -48,9 +48,13 @@
    ```
 4. Configure the bot config
     ```
+   nano config/config.js
+    ```
+5. Configure the bot proxy_list
+    ```
    nano config/proxy_list.js
     ```
-5. To run Auto TX
+6. To run Auto TX
    ```
    npm run start
    ```
