@@ -64,7 +64,7 @@
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repository
    ```
-   git clone https://github.com/airdropinsiders/Mango-Testnet-Auto.git
+   git clone https://github.com/0xA90F/Mango-Testnet-Auto.git
    ```
    and cd to project dir
    ```
