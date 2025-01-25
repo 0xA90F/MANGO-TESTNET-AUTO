@@ -22,7 +22,6 @@
       const _0x2ad666 = _0x52d5eb.integral ?? '-';
       const _0xc19b2f = _0x15211.evmWallet ?? undefined;
 
-def print_header():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Fore.YELLOW + "=" * 50)
     print(Fore.MAGENTA + " " * 10 + "THANKS TO : DYMin!")
