@@ -104,7 +104,7 @@
       console.log();
       console.log("MANGO WALLET AUTO BOT");
       console.log("THANKS TO : DYMin");
-      console.log(Fore.GREEN + " " * 10 +"BUY COFFEE FOR ME: 0xA90FFD1de89f4CE2B8F1bd81b5F12D228B100000 ");
+      console.log("Fore.GREEN + " " * 10 +BUY COFFEE FOR ME: 0xA90FFD1de89f4CE2B8F1bd81b5F12D228B100000 ");
       
       await startBot();
     } catch (_0x26f77e) {
