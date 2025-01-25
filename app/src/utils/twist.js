@@ -21,7 +21,6 @@
       const _0x52d5eb = _0x272a48.MgoUser ?? {};
       const _0x2ad666 = _0x52d5eb.integral ?? '-';
       const _0xc19b2f = _0x15211.evmWallet ?? undefined;
-
     print(Fore.YELLOW + "=" * 50)
     print(Fore.MAGENTA + " " * 10 + "THANKS TO : DYMin!")
     print(Fore.BLUE + " " * 10 + "https://github.com/0xA90F/unichain.git")
