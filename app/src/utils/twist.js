@@ -21,11 +21,6 @@
       const _0x52d5eb = _0x272a48.MgoUser ?? {};
       const _0x2ad666 = _0x52d5eb.integral ?? '-';
       const _0xc19b2f = _0x15211.evmWallet ?? undefined;
-    print(Fore.YELLOW + "=" * 50)
-    print(Fore.MAGENTA + " " * 10 + "THANKS TO : DYMin!")
-    print(Fore.BLUE + " " * 10 + "https://github.com/0xA90F/unichain.git")
-    print(Fore.GREEN + " " * 10 + "BUY COFFEE FOR ME: 0xA90FFD1de89f4CE2B8F1bd81b5F12D228B100000 ")
-    print(Fore.YELLOW + "=" * 50 + "\n")
       
       this.twisters.put(_0x20e604, {
         'text': "\n================== Account " + (_0x4e5c9b + 0x1) + " =================\nAddress      : - " + _0x1bd4ea + " (MANGO) " + (_0xc19b2f ? "\n               - " + _0x15211.evmAddress + " (EVM)" : '') + "\n\nBalance      : \nMANGO NETWORK : " + _0x5da681.map(_0x27d2bd => {
