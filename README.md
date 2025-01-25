@@ -36,7 +36,7 @@
 
 1. Clone project repository
    ```
-   git clone https://github.com/airdropinsiders/Mango-Testnet-Auto.git && cd Mango-Testnet-Auto
+   git clone https://github.com/0xA90F/Mango-Testnet-Auto.git && cd Mango-Testnet-Auto
    ```
 2. Install Dependencies and Setup Accounts
    ```
